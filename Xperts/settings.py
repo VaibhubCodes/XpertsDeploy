@@ -86,7 +86,7 @@ INSTALLED_APPS = [
     'wallet',
     'paybook',
     'resources',
-    'whitenoise.runserver_nonstatic'
+    
     
     
 ]
